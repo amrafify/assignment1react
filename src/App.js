@@ -12,7 +12,7 @@ import Portfolio from "./components/Portfolio";
 import Erreo from "./components/Erreo";
 
 export default function App() {
-  let router = createBrowserRouter([
+  let router = createHashRouter([
     {
       path: "",
       element: <Layout />,
