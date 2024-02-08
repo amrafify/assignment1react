@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/assignment1react/static/css/main.a8a61810.css",
-    "main.js": "/assignment1react/static/js/main.91609641.js",
+    "main.css": "/assignment1react/static/css/main.c5999c7b.css",
+    "main.js": "/assignment1react/static/js/main.e2994127.js",
     "static/js/787.7e52bc4b.chunk.js": "/assignment1react/static/js/787.7e52bc4b.chunk.js",
     "static/media/fa-solid-900.ttf": "/assignment1react/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/assignment1react/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -16,12 +16,12 @@
     "static/media/fa-v4compatibility.ttf": "/assignment1react/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/assignment1react/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/assignment1react/index.html",
-    "main.a8a61810.css.map": "/assignment1react/static/css/main.a8a61810.css.map",
-    "main.91609641.js.map": "/assignment1react/static/js/main.91609641.js.map",
+    "main.c5999c7b.css.map": "/assignment1react/static/css/main.c5999c7b.css.map",
+    "main.e2994127.js.map": "/assignment1react/static/js/main.e2994127.js.map",
     "787.7e52bc4b.chunk.js.map": "/assignment1react/static/js/787.7e52bc4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8a61810.css",
-    "static/js/main.91609641.js"
+    "static/css/main.c5999c7b.css",
+    "static/js/main.e2994127.js"
   ]
 }
